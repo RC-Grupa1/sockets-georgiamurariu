@@ -3,7 +3,7 @@
 # Socket Programming - TCP and UDP Chat
 
 ## Membrii echipei
-- Student A: Server în Java/C#
+- Student A: Server în Ruby
 - Student B: Client în Python
 
 ## TCP Chat
